@@ -16,4 +16,5 @@ PORT=5001
 MONGO_URI=mongodb://localhost:27017/mern
 THIRD_PARTY_API_URL=https://s3.amazonaws.com/roxiler.com/product_transaction.json
 
-https://github.com/saloni680/Roxiler/blob/main/image.png
+
+![Application Screenshot](https://github.com/saloni680/Roxiler/blob/main/image.png)
